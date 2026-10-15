@@ -1,0 +1,11 @@
+
+> blood-donation-management-frontend@1.0.0 start
+> vite --host 0.0.0.0
+
+2:43:22 pm [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  VITE v8.3.4  ready in 313 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://40.0.38.245:5173/  Wi-Fi
+  ➜  press h + enter to show help
